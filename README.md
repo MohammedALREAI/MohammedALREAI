@@ -1,12 +1,12 @@
 ### Hello everyone 👋
 
-#### A brief intro :P
+#### A brief intro 😘😘 :
 
 - A Full Stack dev in love with the JavaScript ecosystem who enjoys understanding and implementing service.
 
 * 🔭 I have experience with technologies like React with use it with Material-ui whit next and redux with saga , Node with mongodb and GraphQL Prisma1 or Prisma2 can be make Rest API or GraphQL .
 
-* GraphQL and TypeScript have blown me away and the Developer Experience that they provide makes me never wanna go back to REST and JS :D
+* GraphQL and TypeScript have blown me away and the Developer Experience that they provide makes me never wanna go back to REST and JS .
 
 * 🌱 I’m currently learning AWS with serverless and the experience is truly amazing. and try to improve my skills in react-native.
 
@@ -25,3 +25,5 @@
 - [Morioh](https://morioh.com/p/2a70bafb09cf)
 - [LinkedIn](https://www.linkedin.com/in/mohammed-al-reai/)
 - [Stackoverflow](https://stackoverflow.com/users/11819308/mohammed-alreai)
+
+thank fro you to read my cv 🤷‍♂️🤷‍♀️
