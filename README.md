@@ -28,4 +28,6 @@
 - [LinkedIn](https://www.linkedin.com/in/mohammed-al-reai/)
 - [Stackoverflow](https://stackoverflow.com/users/11819308/mohammed-alreai)
 
+-[mycv](https://res.cloudinary.com/dwpo5xilm/image/upload/v1610628755/sick-fits/mohammed_cv2021_huvjcu.pdf)
+
 thank fro you to read my cv 🤷‍♂️🤷‍♀️
