@@ -20,6 +20,21 @@
 
 - Lastly, always I love working with a team focus on new technology special that it creates new and which world needs it.
 
+- 📝[Resume](https://res.cloudinary.com/dwpo5xilm/image/upload/v1615980182/sick-fits/Mohammed_alreai_cv.pdf)
+- I have different application published to [Know More About apps](c=>)
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+
+
+
+
 #### found me in 🎉 @
 
 - [Twitter](https://twitter.com/MohammedAl_Reai)
@@ -27,6 +42,6 @@
 - [Morioh](https://morioh.com/p/2a70bafb09cf)
 - [LinkedIn](https://www.linkedin.com/in/mohammed-al-reai/)
 - [Stackoverflow](https://stackoverflow.com/users/11819308/mohammed-alreai)
-- [Resume CV](https://res.cloudinary.com/dwpo5xilm/image/upload/v1610628755/sick-fits/mohammed_cv2021_huvjcu.pdf)
+- [Resume CV](https://res.cloudinary.com/dwpo5xilm/image/upload/v1615980182/sick-fits/Mohammed_alreai_cv.pdf)
 
 thank fro you to read my cv 🤷‍♂️🤷‍♀️
