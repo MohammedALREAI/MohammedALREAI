@@ -79,7 +79,7 @@ alt="webpack" width="40" height="40"/> </a>
 - [Morioh](https://morioh.com/p/2a70bafb09cf)
 - [LinkedIn](https://www.linkedin.com/in/mohammed-al-reai/)
 - [Stackoverflow](https://stackoverflow.com/users/11819308/mohammed-alreai)
-- [Resume CV](https://res.cloudinary.com/dwpo5xilm/image/upload/v1615980182/sick-fits/Mohammed_alreai_cv.pdf)
+- [Resume CV](https://res.cloudinary.com/dwpo5xilm/image/upload/v1629797340/personla/Mohammed-Al-Reai.pdf)
 - [freelancer](https://www.freelancer.com/u/mohammedAlreaY)
 - [upwork](https://www.upwork.com/freelancers/~01980c621c0a78a0b1)
 
