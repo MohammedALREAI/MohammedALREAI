@@ -1,29 +1,33 @@
-### Hello everyone 👋
+
+### Hello everyone 👋.
+<hr color="yellow" height="5px" width="25%"/>
+
 [![Linkedin Badge](https://img.shields.io/badge/Mohammed_Alreai-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mohammed-al-reai/)](https://www.linkedin.com/in/mohammed-al-reai/) [![Twitter Badge](http://img.shields.io/badge/-@MohammedAl_Reai-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://https://twitter.com/MohammedAl_Reai)](https://twitter.com/MohammedAl_Reai) [![GitHub followers](https://img.shields.io/github/followers/MohammedALREAI?label=Follow&style=social)](https://github.com/MohammedALREAI/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-Mohammed_Alreai-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mhamad.aa1997.aa@gmail.com)](mailto:mhamad.aa1997.aa@gmail.com) 
 
 #### A brief intro 😘😘 :
+<hr color="yellow" height="5px" width="25%"/>
 
 
 - A Full Stack(Node/React/Graphql) dev in love with the JavaScript ecosystem who enjoys understanding and working on this service.
 
-* 🔭 I have experience with technologies like React with use it with Material-ui whit next and redux with thunk , Node with mongodb and GraphQL Prisma,ORM can be make Rest API or GraphQL .
+-  🔭 I have experience with technologies like React with use it with Material-ui whit next and redux with thunk , Node with mongodb and GraphQL Prisma,ORM can be make Rest API or GraphQL .
 
-* GraphQL and TypeScript have blown me away and the Developer Experience that they provide makes me never wanna go back to REST and JS .
+- GraphQL and TypeScript have blown me away and the Developer Experience that they provide makes me never wanna go back to REST and JS .
 
-
-#### Hobbies ⚡
+### Hobbies ⚡
+<hr color="yellow" height="5px" width="15%"/>
 
 - I love watching and go-to an event that related to technology spend the most time learning now technology.
 
-* 📚 I like reading books and articles in my spare time also write some articles and solve problems in StackOverflow.
+- 📚 I like reading books and articles in my spare time also write some articles and solve problems in StackOverflow.
 
-- Lastly, always I love working with a team focus on new technology special that it creates new and which world needs it.
+-  Lastly, always I love working with a team focus on new technology special that it creates new and which world needs it.
 
-- 📝[Resume](https://res.cloudinary.com/dwpo5xilm/image/upload/v1615980182/sick-fits/Mohammed_alreai_cv.pdf)
+- 📝[Resume](https://res.cloudinary.com/dwpo5xilm/image/upload/v1651596316/personla/Mohammed_Alreai_Full.pdf)
 - I have different application published to [Know More About apps](c=>)
 **Languages and Tools:**  
 
-<div style="dispaly:flex; justify-content:space-between;">
+<div style="dispaly:flex; gap:30px; justify-content:space-between;">
 <a href="https://aws.amazon.com" target="_blank">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
  alt="aws" width="40" height="40"/> </a>     
@@ -71,17 +75,27 @@
                                   <a href="https://webpack.js.org" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" 
 alt="webpack" width="40" height="40"/> </a>
+  <a href="https://nestjs.com/" target="_blank">
+                                   <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" 
+                                   alt="typescript" width="40" height="40"/> </a> 
 
 #### found me in  🎉 @
+<hr color="yellow" height="5px" width="25%"/>
 
 - [Twitter](https://twitter.com/MohammedAl_Reai)
 - [Email](20154725@student.alazhar.edu.ps)
 - [Morioh](https://morioh.com/p/2a70bafb09cf)
 - [LinkedIn](https://www.linkedin.com/in/mohammed-al-reai/)
 - [Stackoverflow](https://stackoverflow.com/users/11819308/mohammed-alreai)
-- [Resume CV](https://res.cloudinary.com/dwpo5xilm/image/upload/v1629797340/personla/Mohammed-Al-Reai.pdf)
+- [Resume CV](https://res.cloudinary.com/dwpo5xilm/image/upload/v1651596316/personla/Mohammed_Alreai_Full.pdf)
 - [freelancer](https://www.freelancer.com/u/mohammedAlreaY)
 - [upwork](https://www.upwork.com/freelancers/~01980c621c0a78a0b1)
+### Some of my Github Stats
+<hr color="yellow" height="5px" width="25%"/>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=MohammedALREAI" alt="Mohammed alreai" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedALREAI&show_icons=true&locale=en" width="100%" alt="Mohammed alreai"/>
 
 
 
