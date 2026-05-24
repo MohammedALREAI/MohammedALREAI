@@ -7,47 +7,12 @@
 
 ## Professional Summary
 
-Dynamic Full-Stack Developer with 4+ years of proven expertise in React, Node.js, and TypeScript ecosystem. Successfully delivered 15+ production applications serving 100K+ users. Specialized in building scalable e-commerce platforms, enterprise dashboards, and API integrations. 
+Full-stack developer (React / Node.js / TypeScript) based in Palestine. I build the unglamorous parts of web apps — design systems, internal dashboards, form builders, and the data-integration layers that production businesses run on.
 
-**Top 5% Stack Overflow contributor** with demonstrated leadership in cross-functional teams and commitment to code quality excellence.
-
-**Key Achievements:**
-- 🚀 Migrated 1M+ products and 100K+ customers to modern commerce platform
-- 📈 Improved application performance by 40% through API optimization
-- 👥 Led development teams of 3-5 developers across multiple projects  
-- 🏆 Top 5% Stack Overflow contributor (10K+ reputation)
-- 💼 Delivered 15+ production applications in e-commerce, gaming, and enterprise domains
-
----
-## 🛠️ Technical Expertise
-
-**Frontend Development:**
-- **React Ecosystem**: React 18, Redux Toolkit, Context API, React Router, React Query
-- **Styling**: Material-UI, Styled Components, Tailwind CSS, SCSS/SASS
-- **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3
-
-**Backend Development:**  
-- **Node.js Frameworks**: Express.js, NestJS, Fastify
-- **APIs**: RESTful APIs, GraphQL, WebSocket, Microservices
-- **Authentication**: JWT, OAuth 2.0, Passport.js
-
-**Databases & Storage:**
-- **SQL**: PostgreSQL, MySQL  
-- **NoSQL**: MongoDB, Redis
-- **ORMs**: Prisma, TypeORM, Mongoose
-
-**Cloud & DevOps:**
-- **Platforms**: AWS (EC2, S3, Lambda), Azure, Vercel, Netlify
-- **Tools**: Docker, Git, GitHub Actions, Jenkins
-- **Monitoring**: PM2, CloudWatch, Sentry
-
-**Additional Skills:**
-- Payment Gateway Integration (Stripe, PayPal, Local gateways)
-- Real-time Features (Socket.io, FCM)
-- Testing (Jest, Cypress, React Testing Library)
-- API Documentation (Swagger, Postman)
-
----
+- 🛠️  **Currently:** React Developer at SPM Consultants — enterprise SaaS platform, drag-and-drop form builder, and in-house design system
+- 🏆  **Top 5% Stack Overflow contributor** across React, JavaScript, TypeScript, and Node.js
+- 🌍  **Open to remote roles** — EU / MENA / US-East timezone overlap (GMT+3)
+- 📫  mhamad.aa1997.aa@gmail.com
 
 
 ## 💼 Professional Experience
@@ -115,17 +80,6 @@ Dynamic Full-Stack Developer with 4+ years of proven expertise in React, Node.js
 
 ## 🚀 Featured Projects
 
-### **Homeschool Hub Platform** | YCP International Team
-*May 2021 - July 2021*
-
-**Global Education Platform**
-- 🌍 **International Collaboration**: Worked with distributed team across 3 time zones
-- 🔄 **Auto-Generation**: Implemented Pal.js-style auto-generation for SDL and typed schemas
-- 📱 **Modern Stack**: Built with Node.js, GraphQL, Prisma, Next.js, and Apollo Client
-- 🎯 **Type Safety**: Generated typed hooks for queries, mutations, and subscriptions
-
-**Technologies**: Node.js, GraphQL, Prisma, Next.js, Apollo Client, TypeScript
-
 ### **Food Delivery Platform** | Personal Project  
 *May 2020 - September 2021*
 
@@ -150,57 +104,11 @@ Al-Azhar University Gaza, Palestine | 2015 - 2020
 - **Advanced React Patterns** | Online Certification | 2022
 - **Node.js Microservices** | Udemy | 2021
 
----
 
-## 🏆 Achievements & Recognition
 
-- **🥇 Top 5% Contributor** on Stack Overflow (12K+ reputation)
-- **🚀 Successfully migrated 1M+ products** in enterprise system without downtime
-- **👥 Led cross-functional teams** of 3-5 developers across multiple projects
-- **📈 Improved application performance** by 45% through optimization techniques
-- **🎯 100% project delivery rate** on time and within budget
-- **💬 Mentored 5+ junior developers** in React and Node.js best practices
 
----
 
-## 🌐 Languages
-
-- **Arabic**: Native
-- **English**: Professional Working Proficiency
-- **Technical Communication**: Advanced (Documentation, Code Reviews, Team Collaboration)
-
----
-
-## 🤝 Professional Skills
-
-**Technical Leadership**
-- Cross-functional team collaboration
-- Code review and mentorship  
-- Architecture decision making
-- Performance optimization
-
-**Development Practices**
-- Agile/Scrum methodologies
-- Test-driven development (TDD)
-- Continuous Integration/Deployment
-- Git workflow management
-
-**Communication**
-- Client requirement analysis
-- Technical documentation
-- Stakeholder presentations  
-- Remote team collaboration
-
----
-## Hobbies ⚡
-
-- I love watching and go-to an event that related to technology spend the most time learning now technology.
-
-- 📚 I like reading books and articles in my spare time also write some articles and solve problems in StackOverflow.
-
--  Lastly, always I love working with a team focus on new technology special that it creates new and which world needs it.
-
-- 📝[Resume](https://res.cloudinary.com/dwpo5xilm/image/upload/v1651596316/personla/Mohammed_Alreai_Full.pdf)
+- 📝[Resume](https://docs.google.com/document/d/1oH3N_2yhzgHWtexo1wQTV_qLyUTkM_gU/edit?usp=drive_link&ouid=110905046612139352467&rtpof=true&sd=true)
 - I have different application published to [Know More About apps](c=>)
 **Languages and Tools:**  
 
